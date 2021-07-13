@@ -1,0 +1,22 @@
+export default {
+  usersUsersList: 'Thành viên / Danh sách thành viên',
+  profile: 'Trang cá nhân',
+  sendMessage: 'Gửi tin nhắn',
+  jobTitle: 'Chức danh',
+  dateOfJoin: 'Ngày tham gia',
+  phone: 'Số điện thoại',
+  email: 'Email',
+  password: 'Mật khẩu',
+  birthday: 'Ngày sinh',
+  address: 'Địa chỉ',
+  gender: 'Giới tính',
+  employee: 'Nhân viên',
+  roles: 'Vai trò',
+  permissions: 'Phân quyền',
+  fullName: 'Họ và tên',
+  username: 'Username',
+  kanaName: 'Tên kana',
+  createNewUser: 'Thêm mới thành viên',
+  editUser: 'Chỉnh sửa thành viên',
+  active: 'Kích hoạt'
+}

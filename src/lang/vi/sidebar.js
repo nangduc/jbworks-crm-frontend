@@ -1,0 +1,26 @@
+export default {
+  myProfile: 'Trang cá nhân',
+  usersList: 'Danh sách thành viên',
+  dashboard: 'Bảng điểu khiển',
+  logout: 'Đăng xuất',
+  userManagement: 'Quản lý thành viên',
+  users: 'Thành viên',
+  rolePermission: 'Quyền truy cập',
+  departments: 'Phòng ban',
+  opportunityReport: 'Công việc',
+  opportunityReportList: 'Danh sách công việc',
+  tasks: 'Công việc',
+  customers: 'Khách hàng',
+  companion: 'Người đồng hành',
+  taskType: 'Loại công việc',
+  reports: 'Báo cáo',
+  platformAdministration: 'Quản trị hệ thống',
+  // Acitivitylogs
+  activityLogs: 'Nhật ký hệ thống',
+  activityLogsName: 'Hành động trên hệ thống',
+  activityLogsDesc: 'Mô tả chi tiết logs',
+  activityLogsIP: 'Địa chỉ IP',
+  activityLogsUser: 'Người dùng',
+  activityLogsDate: 'Ngày thực hiện',
+  notifications: 'Notifications'
+}

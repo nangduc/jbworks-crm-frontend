@@ -1,0 +1,26 @@
+export default {
+  myProfile: '個人ページ ',
+  usersList: 'メンバーリスト ',
+  dashboard: 'コントロールパネル ',
+  logout: 'ログアウト ',
+  userManagement: 'メンバーを管理する ',
+  users: 'ユーザ',
+  rolePermission: 'アクセス権',
+  departments: '部署',
+  opportunityReport: '商談レポート',
+  opportunityReportList: '商談レポート一覧',
+  taskSidebarChild: '',
+  customers: '取引先',
+  reports: 'トピックス',
+  platformAdministration: 'Platform Administration',
+  companion: '同行者 ',
+  taskType: '仕事の種類',
+  // Acitivitylogs
+  activityLogs: 'システム日記',
+  activityLogsName: 'システムに作用する',
+  activityLogsDesc: 'ログの詳細な説明',
+  activityLogsIP: 'IPアドレス',
+  activityLogsUser: 'ユーザー',
+  activityLogsDate: '実施日',
+  notifications: '通知 '
+}
